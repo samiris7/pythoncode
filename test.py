@@ -1,1 +1,1 @@
-print("Wassup Buddy!! virgin")
+print"Wassup Buddy!! virgin")
